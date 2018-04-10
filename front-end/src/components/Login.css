@@ -1,0 +1,33 @@
+.LogInFBGOOG{
+	height: 700px;
+	width: 500px;
+	border: solid lightgray 3px;
+	margin:  auto;
+	border-radius: 5px;
+	background-color: white;
+}
+.googleface{
+	margin: auto;
+	position: relative;
+	top: 133px;
+}
+.facebook2{
+	width: 300px;
+	position: relative;
+	bottom: 80px;
+}
+.google{
+	width: 300px;
+}
+.email{
+	position: relative;
+	top: 172px;
+}
+.submit{
+	position: relative;
+	top: 15px;
+	/* border-radius: 5px;
+	height: 30px;
+	width: 70px;
+	background-color: #bebebe; */
+}

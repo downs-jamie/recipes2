@@ -1,0 +1,50 @@
+body{
+	background-color: lightblue;
+}
+
+.element{
+	width: 500px;
+	display: inline-block;
+	margin: 0.5rem;
+}
+.element1{
+	border: black solid 2px;
+	margin: auto;
+	width: 500px;
+	height: 300px;
+	display: inline-block;
+}
+
+.image{
+	margin: auto;
+	width: 200px;
+	height: auto;
+}
+
+.mainContainer{
+	display: flex;
+	flex-direction: row;
+	overflow: scroll;
+	/*justify-content: center;*/
+}
+.title{
+	font-size: 1.5rem;
+}
+
+.buttons{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.navbar{
+	width: 100%;
+	height: 65px;
+	background-color: #50a6c2;
+
+}
+.input{
+	height: 35px;
+	width: 200px;
+	border-radius: 8px;
+	border: ridge #dedede 5px;
+}
